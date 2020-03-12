@@ -1,0 +1,59 @@
+#home{
+    font-family: Inknut Antiqua;
+    text-align: center;
+    font-size: 150px; 
+    background-image: url(images/home1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    height: 600px;
+    color: darkgray;
+}
+
+#types{
+    font-family: Inknut Antiqua;
+    font-size: 50px;
+    text-align: center;
+}
+
+#karma{
+    font-family: Inknut Antiqua;
+    text-align: center;
+}
+
+#karma-content{
+    text-align: center;
+}
+
+#jnana{
+    font-family: Inknut Antiqua;
+    text-align: center;
+}
+
+#jnana-content{
+    text-align: center;
+}
+
+#bhakti{
+    font-family: Inknut Antiqua;
+    text-align: center;
+}
+
+#bhakti-content{
+    text-align: center;
+}
+
+#raja{
+    font-family: Inknut Antiqua;
+    text-align: center;
+}
+
+#raja-content{
+    text-align: center;
+}
+
+#about{
+    font-size: 50px;
+    text-align: center;
+    font-family: Inknut Antiqua;
+}
